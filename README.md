@@ -2,19 +2,30 @@
 
 ## Formação
 Ensino Médio -Completo
+
 Técnico em Administração -Senac
+
 Espanhol Básico -Cil
+
 Cursando 2 semestre de Análise e desenvolvimento de sistemas 
 
 ## Habilidades Sociais e Técnicas 
 Comunicação 
+
 Aprendizagem Rápida
+
 Empatia 
+
 Organização 
+
 Trabalho em equipe 
+
 Liderança 
+
 Word -Básico 
+
 PowerPoint -Básico
+
 
 ## Projetos e Experiência
 Circuito de Ciências das Escolas Públicas do Distrito Federal-Desenvolvimento de projeto escolar de uma horta medicinal.Ganhou o prêmio regional e se classificou para a etapa distrital.
