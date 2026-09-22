@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Formação
-Ensino Médio -Completo
+Ensino Médio Completo
 
 Técnico em Administração -Senac
 
