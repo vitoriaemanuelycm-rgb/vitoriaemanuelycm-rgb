@@ -46,9 +46,13 @@ Atualmente tenho interesse em linguagens como javascript e na aréa de Front-end
 
 ### 🤝 Habilidades Sociais / Soft Skills
 • 👁️ Empatia: Capacidade de compreender e valorizar as perspectivas e sentimentos dos outros.
+
 • 🚀 Liderança: Habilidade para guiar, inspirar e engajar pessoas em direção a objetivos comuns.
+
 • 👥 Trabalho em Equipe: Colaboração ativa e harmoniosa em ambientes multidisciplinares.
+
 • 🗣️ Comunicação: Facilidade em expressar ideias de forma clara, ouvindo e transmitindo informações com eficiência.
+
 • 📅 Organização: Competência para gerenciar o tempo, priorizar tarefas e estruturar processos de forma eficiente.
 
 
