@@ -18,10 +18,6 @@ Estudante de Análise e Desenvolvimento de Sistemas (2º Semestre) com paixão p
 ![](https://streak-stats.demolab.com/?user=vitoriaemanuelycm-rgb&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vitoriaemanuelycm-rgb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 [![](https://komarev.com/ghpvc/?username=vitoriaemanuelycm-rgb&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
