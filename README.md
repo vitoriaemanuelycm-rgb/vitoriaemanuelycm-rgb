@@ -1,4 +1,4 @@
-## Olá! Eu sou a Emanuely Vitória  👋
+## Olá! Eu sou a Emanuely Vitoria  👋
 
 Estudante de Análise e Desenvolvimento de Sistemas (2º Semestre) com paixão pela criação de interfaces atraentes, funcionais e criativas! 🚀
 
