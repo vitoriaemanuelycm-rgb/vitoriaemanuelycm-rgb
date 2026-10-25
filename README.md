@@ -9,6 +9,10 @@ Técnico em Administração -Senac
 
 Espanhol Básico -Cil
 
+<a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>
+<a href="mailto:seu-email@gmail.com"><img src="https://shields.io" alt="Email"></a>
+
+
 ## Linguagens e Ferramentas
 
 ## Habilidades Sociais e Técnicas 
