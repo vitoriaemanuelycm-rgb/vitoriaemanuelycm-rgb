@@ -46,37 +46,14 @@ Atualmente tenho interesse em linguagens como javascript e na aréa de Front-end
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## Habilidades Sociais 
-Comunicação 
-
-Aprendizagem Rápida
-
-Organização 
-
-Trabalho em equipe 
-
-Liderança 
-
-<!-- Modelo Minimalista / Flat -->
-![Habilidades Sociais](https://shields.io_•_Trabalho_em_Equipe-blue?style=flat-square&logo=github)
-
-<!-- Modelo Arredondado com ícone de pessoas (SimpleIcons/Discourse) -->
-![Soft Skills](https://shields.io_•_Liderança-brightgreen?style=for-the-badge&logo=discourse&logoColor=white)
-
-<!-- Modelo de Habilidades Sociais Gerais -->
-![Habilidades Sociais](https://shields.io)
-
-<div align="left">
-  <!-- Ícone representando Habilidades Sociais (Comunidade/Usuários) -->
-  <img src="https://githubusercontent.com" alt="Habilidades Sociais" />
-  <span><b>Habilidades Sociais:</b> Comunicação, Empatia, Negociação</span>
-</div>
-
 ### 🤝 Habilidades Sociais / Soft Skills
-* 🗣️ **Comunicação Assertiva:** Facilidade em expressar ideias de forma clara.
-* 👥 **Trabalho em Equipe:** Colaboração ativa em ambientes multidisciplinares.
-* 🧠 **Inteligência Emocional:** Resolução de conflitos e empatia no ambiente de trabalho.
-* 🚀 **Liderança Positiva:** Capacidade de motivar e engajar o time.
+• 👁️ Empatia: Capacidade de compreender e valorizar as perspectivas e sentimentos dos outros.
+• 🚀 Liderança: Habilidade para guiar, inspirar e engajar pessoas em direção a objetivos comuns.
+• 👥 Trabalho em Equipe: Colaboração ativa e harmoniosa em ambientes multidisciplinares.
+• 🗣️ Comunicação: Facilidade em expressar ideias de forma clara, ouvindo e transmitindo informações com eficiência.
+• 📅 Organização: Competência para gerenciar o tempo, priorizar tarefas e estruturar processos de forma eficiente.
+
+
 
 
 
