@@ -7,12 +7,17 @@ Estudante de Análise e Desenvolvimento de Sistemas (2º Semestre) com paixão p
 🎓 Graduanda em Análise e Desenvolvimento de Sistemas (2º Semestre).
 
 🌱 Apaixonada por transformar ideias em experiências visuais web e aprender constantemente novas tecnologias.
-### 🤝 Habilidades sociais / soft skills
+
+## 🤝 Habilidades sociais / soft skills
 
 • 🧠 empatia: capacidade de compreender e valorizar a perspectiva do outro.
+
 • 🚀 liderança: habilidade de inspirar, guiar e engajar o time rumo aos objetivos.
+
 • 👥 trabalho em equipe: colaboração ativa e harmoniosa em ambientes multidisciplinares.
+
 • 🗣 comunicação: facilidade em expressar ideias de forma clara, direta e acessível.
+
 • 📅 organização: excelência na gestão de tempo, prazos e estruturação de fluxos de trabalho.
 
 ## 🌐 Sociais:
