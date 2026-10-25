@@ -23,18 +23,12 @@ Estudante de Análise e Desenvolvimento de Sistemas (2º Semestre) com paixão p
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **vitoriaemanuelycm-rgb/vitoriaemanuelycm-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your 
+### 🤝 Habilidades sociais / soft skills
 
-### 🤝 Habilidades Sociais / Soft Skills
-• 👁️ Empatia: Capacidade de compreender e valorizar as perspectivas e sentimentos dos outros.
-
-• 🚀 Liderança: Habilidade para guiar, inspirar e engajar pessoas em direção a objetivos comuns.
-
-• 👥 Trabalho em Equipe: Colaboração ativa e harmoniosa em ambientes multidisciplinares.
-
-• 🗣️ Comunicação: Facilidade em expressar ideias de forma clara, ouvindo e transmitindo informações com eficiência.
-
-• 📅 Organização: Competência para gerenciar o tempo, priorizar tarefas e estruturar processos de forma eficiente.
-
-
+• 🧠 empatia: capacidade de compreender e valorizar a perspectiva do outro.
+• 🚀 liderança: habilidade de inspirar, guiar e engajar o time rumo aos objetivos.
+• 👥 trabalho em equipe: colaboração ativa e harmoniosa em ambientes multidisciplinares.
+• 🗣 comunicação: facilidade em expressar ideias de forma clara, direta e acessível.
+• 📅 organização: excelência na gestão de tempo, prazos e estruturação de fluxos de trabalho.
 GitHub profile.
 
