@@ -66,6 +66,11 @@ Liderança
 <!-- Modelo de Habilidades Sociais Gerais -->
 ![Habilidades Sociais](https://shields.io)
 
+<div align="left">
+  <!-- Ícone representando Habilidades Sociais (Comunidade/Usuários) -->
+  <img src="https://githubusercontent.com" alt="Habilidades Sociais" />
+  <span><b>Habilidades Sociais:</b> Comunicação, Empatia, Negociação</span>
+</div>
 
 
 
