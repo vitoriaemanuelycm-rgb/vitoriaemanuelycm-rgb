@@ -11,6 +11,8 @@ Espanhol Básico -Cil
 
 <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>
 <a href="mailto:seu-email@gmail.com"><img src="https://shields.io" alt="Email"></a>
+[![LinkedIn](https://shields.io)](COLE_O_LINK_DO_SEU_PERFIL_AQUI)
+[![Email](https://shields.io)](mailto:SEU_EMAIL_AQUI@gmail.com)
 
 
 ## Linguagens e Ferramentas
