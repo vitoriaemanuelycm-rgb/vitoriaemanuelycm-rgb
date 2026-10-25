@@ -1,28 +1,4 @@
-## Olá  👋
-
-## Formação
-Cursando 2 semestre de Análise e desenvolvimento de sistemas 
-
-Ensino Médio- Completo
-
-Técnico em Administração -Senac
-
-Espanhol Básico -Cil
-
-## Habilidades Sociais 
-Comunicação 
-
-Aprendizagem Rápida
-
-Organização 
-
-Trabalho em equipe 
-
-Liderança 
-
-## Experiência
-Monitoria no Extencionista da UDF-Onde fui uma
-auxiliar nas tarefas no etinerario extencionista da faculdade.
+## Hello  👋
 
 ##  💫 Sobre min
 Tenho interesse em novas tecnologias, busco aprender e me aprimorar nos meu conhecimentos tenho dedicação e foco a meu interesses .<br>
@@ -69,6 +45,26 @@ Atualmente tenho interesse em linguagens como javascript e na aréa de Front-end
 [![](https://komarev.com/ghpvc/?username=vitoriaemanuelycm-rgb&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## Habilidades Sociais 
+Comunicação 
+
+Aprendizagem Rápida
+
+Organização 
+
+Trabalho em equipe 
+
+Liderança 
+
+<!-- Modelo Minimalista / Flat -->
+![Habilidades Sociais](https://shields.io_•_Trabalho_em_Equipe-blue?style=flat-square&logo=github)
+
+<!-- Modelo Arredondado com ícone de pessoas (SimpleIcons/Discourse) -->
+![Soft Skills](https://shields.io_•_Liderança-brightgreen?style=for-the-badge&logo=discourse&logoColor=white)
+
+<!-- Modelo de Habilidades Sociais Gerais -->
+![Habilidades Sociais](https://shields.io)
 
 
 
