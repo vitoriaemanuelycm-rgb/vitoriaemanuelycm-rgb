@@ -72,6 +72,11 @@ Liderança
   <span><b>Habilidades Sociais:</b> Comunicação, Empatia, Negociação</span>
 </div>
 
+### 🤝 Habilidades Sociais / Soft Skills
+* 🗣️ **Comunicação Assertiva:** Facilidade em expressar ideias de forma clara.
+* 👥 **Trabalho em Equipe:** Colaboração ativa em ambientes multidisciplinares.
+* 🧠 **Inteligência Emocional:** Resolução de conflitos e empatia no ambiente de trabalho.
+* 🚀 **Liderança Positiva:** Capacidade de motivar e engajar o time.
 
 
 
