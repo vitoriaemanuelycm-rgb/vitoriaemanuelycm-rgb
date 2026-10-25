@@ -1,5 +1,3 @@
-Hello  👋
-
 ##  👋 Hello 
  💫 Sobre min
 Tenho interesse em novas tecnologias, busco aprender e me aprimorar nos meu conhecimentos tenho dedicação e foco a meu interesses .<br>
