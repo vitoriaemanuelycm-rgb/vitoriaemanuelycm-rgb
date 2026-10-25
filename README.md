@@ -1,6 +1,12 @@
-##  👋 Hello 
-#### 💫 Sobre mim :Tenho interesse em novas tecnologias, busco aprender e me aprimorar nos meu conhecimentos tenho dedicação e foco a meu interesses .<br>
+## Olá! Eu sou a Emanuely Vitória Cardoso 👋
 
+Estudante de Análise e Desenvolvimento de Sistemas (2º Semestre) com paixão pela criação de interfaces atraentes, funcionais e criativas! 🚀
+
+🎨 Sobre Mim
+
+🎓 Graduanda em Análise e Desenvolvimento de Sistemas (2º Semestre).
+
+🌱 Apaixonada por transformar ideias em experiências visuais web e aprender constantemente novas tecnologias.
 
 ## 🌐 Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emanuely-vit%C3%B3ria-cardoso-07704042b?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emanuelycardoso802@gmail.com) 
@@ -54,43 +60,6 @@ Atualmente tenho interesse em linguagens como javascript e na aréa de Front-end
 • 🗣️ Comunicação: Facilidade em expressar ideias de forma clara, ouvindo e transmitindo informações com eficiência.
 
 • 📅 Organização: Competência para gerenciar o tempo, priorizar tarefas e estruturar processos de forma eficiente.
-
-Olá! Eu sou a Emanuely Vitória Cardoso 👋
-
-Estudante de Análise e Desenvolvimento de Sistemas (2º Semestre) com paixão pela criação de interfaces atraentes, funcionais e criativas! 🚀
-
-🎨 Sobre Mim
-
-🎓 Graduanda em Análise e Desenvolvimento de Sistemas (2º Semestre).
-
-💡 Foco & Interesse: Desenvolvimento Front-End e Design Criativo.
-
-🌱 Apaixonada por transformar ideias em experiências visuais web e aprender constantemente novas tecnologias.
-
-💻 Linguagens & Tecnologias
-
-🌟 Soft Skills (Habilidades Comportamentais)
-
-💬 Comunicação assertiva
-
-⚡ Aprendizagem rápida
-
-👑 Liderança
-
-🤝 Trabalho em equipe
-
-📋 Organização
-
-❤️ Empatia
-
-📬 Vamos nos conectar?
-
-💼 LinkedIn: Emanuely Vitória Cardoso
-
-📧 E-mail: emanuelycardoso802@gmail.com
-
-
-
 
 
 GitHub profile.
